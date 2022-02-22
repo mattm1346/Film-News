@@ -56,7 +56,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'filmnews.urls'
+ROOT_URLCONF = 'film-news.urls'
 
 TEMPLATES = [
     {
