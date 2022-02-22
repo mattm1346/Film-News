@@ -1,7 +1,7 @@
 ---
 name: User Stories
 about: Film News User Stories Template
-title: ''
+title: USER STORY <TITLE>
 labels: ''
 assignees: ''
 
