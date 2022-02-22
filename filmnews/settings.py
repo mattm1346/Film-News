@@ -74,7 +74,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'filmnews.wsgi.application'
+WSGI_APPLICATION = 'film-news.wsgi.application'
 
 
 # Database

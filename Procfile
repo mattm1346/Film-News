@@ -1,1 +1,1 @@
-web: gunicorn filmnews.wsgi
+web: gunicorn film-news.wsgi
